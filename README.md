@@ -6,8 +6,4 @@
 
 그 중에서도 딥러닝 기법 중 인간의 시각 중추를 모델링 한 컨벌루션 신경망(CNN)에 대해서 공부하고 싶습니다. 
 
-.center {
-    display : block;
-    maring : auto;
-}
 ![image](https://user-images.githubusercontent.com/114749643/193734685-6006af18-f144-4d09-9c5a-8ebba30ef4ba.png)
